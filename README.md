@@ -1,2 +1,2 @@
 # ExONG
-Site de ONG (Curso SoulCode)
+Repositório do Site de ONG (Curso SoulCode)
