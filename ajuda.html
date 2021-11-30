@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ajuda</title>
+    <link rel="stylesheet" type="text/css" href="style/style.css">
+    <link rel="stylesheet" type="text/css" href="style/style.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header id="formnav">
+        <ul class="nav" id="topo">
+            <a href="index.html"><li>Início</li></a>
+            <a href="servicos.html"><li>Serviços</li></a>
+            <a href="projetos.html"><li>Projetos</li></a>
+            <a href="relatos.html"><li>Relatos</li></a>
+            <a href="about.html"><li>Sobre nós</li></a>
+        </ul>
+    </header>
+    
+    <form action="post" target="blank" action="feito.html" id="formulario">
+        <h1>Vamos lá!</h1>
+        <label class=inicio>
+            <h3>Nome:</h3>
+            <br/>
+            <br/>
+            <input type=text name=nome placeholder="nome..." >
+        </label>
+        <br/>
+        <label class=inicio>
+            <h3>Deixe seu contato:</h3>
+            <br/>
+            <br/>
+            <input type="tel" name="telefone" placeholder=(**)*********>
+        </label>
+        <br/>
+        <label class=inicio>
+            <h3>Estamos com você! Como podemos te ajudar?</h3>
+            <br/>
+            <br/>
+            <input type="radio" name=ajuda>Apoio à família<br/>
+            <input type="radio" name=ajuda>Apoio Social<br/>
+            <input type="radio" name=ajuda>Assessoria Jurídica<br/>
+            <input type="radio" name=ajuda>Terapia<br/>
+        </label>
+        <br/>
+        <label class="inicio">
+            <h3>Queremos te conhecer melhor, Conte a sua história!</h3>
+            <textarea rows="7" cols="50" name=texto></textarea>
+        </label>
+        <br/>
+        <button type="submit" class="butao">Enviar</button>
+    </form>
+    <div class="fim">
+        <hr>
+        <a href="#topo">Voltar ao Topo</a>
+        <p>&copy;Todos os direitos reservados à ONG Florescer</p>
+    </div>
+
+</body>
+</html>
