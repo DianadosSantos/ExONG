@@ -36,7 +36,8 @@
 <br>
 
 > ## Agradecimentos 💙
-
 Obrigada [SoulCode Academy](https://soulcodeacademy.org) pelo que nos têm proporcionado!
+Todos os direitos reservados a ONG Florescer!
+
 
 
