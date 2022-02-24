@@ -27,7 +27,7 @@
 
 > ## Layout 💻
 
-<img src="" width="900" />
+<img src="https://github.com/DianadosSantos/ExONG/blob/main/video/florescer.gif" width="900" />
 
 <br>
 
