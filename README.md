@@ -30,13 +30,11 @@
 <img src="https://github.com/DianadosSantos/ExONG/blob/main/video/florescer.gif" width="900" />
 
 <br>
-
-
 <br>
 <br>
 
 > ## Agradecimentos 💙
-Obrigada [SoulCode Academy](https://soulcodeacademy.org) pelo que nos têm proporcionado!
+Obrigada [SoulCode Academy](https://soulcodeacademy.org) pelo que nos têm proporcionado!<br>
 Todos os direitos reservados a ONG Florescer!
 
 
